@@ -645,6 +645,19 @@ Name Of Contribute
 
 Waiting for your contribute
 
+## AI Agent Skill
+
+This project includes an **AI Agent Skill** designed to help AI coding assistants (like Antigravity) understand and manage the GitHub Workflows in this repository.
+
+### How to Use
+If you are using an AI assistant, you can ask it to use the skill located at:
+`skills/github-workflows/SKILL.md`
+
+### Example Commands:
+- "Explain how the APK upload workflow works using the `github-workflows` skill."
+- "Use the `github-workflows` skill to add a new environment variable to all CI scripts."
+- "Help me troubleshoot a failed build using the `github-workflows` skill."
+
 ## Attention !!!
 - Please enjoy and don't forget fork and give a star
 - Don't Forget Follow My Github Account
